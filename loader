@@ -2,18 +2,18 @@
 
 ------------------------------------------------------------ Goal Kick Sim
 if game.PlaceId == 9281034297 then 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/zenkai/main/goalkicksim', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/zenhub/main/goalkicksim', true))()
 end
 ------------------------------------------------------------ Goal Kick Sim
 
 ------------------------------------------------------------ DaHood
 if game.PlaceId == 2788229376 then 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/2alivelol/zenkai/main/dahood"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/2alivelol/zenhub/main/dahood"))()
 end
 ------------------------------------------------------------ DaHood
 
 ------------------------------------------------------------ Bubble Gum Sim
 if game.PlaceId == 2512643572 then 
-loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/zenkai/main/bubblegumsim', true))()
+loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/zenhub/main/bubblegumsim', true))()
 end
 ------------------------------------------------------------ Bubble Gum Sim
