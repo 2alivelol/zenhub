@@ -17,3 +17,9 @@ if game.PlaceId == 2512643572 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/2alivelol/zenhub/main/bubblegumsim', true))()
 end
 ------------------------------------------------------------ Bubble Gum Sim
+
+------------------------------------------------------------ MM2
+if game.PlaceId == 142823291 then 
+loadstring(game:HttpGet('https://pastebin.com/raw/kPZFR8JN', true))()
+end
+------------------------------------------------------------ MM2
